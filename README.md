@@ -127,5 +127,8 @@ Login details (admin/user credentials) are provided inside the file:
 Feel free to explore, customize, and upgrade this system further! Happy coding! 🚀
 
 ---
+👤 Author
+Preetham K T
+
 
 ---
