@@ -1,0 +1,11 @@
+Admin Login Details
+
+Email   : admin@gmail.com
+Password: Password@123
+
+User Login Details
+
+Email   : Cristiano Ronaldo
+Password: password
+
+
